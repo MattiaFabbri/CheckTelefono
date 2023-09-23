@@ -2,6 +2,6 @@ quando un numero è valido?
 è stato deciso che un numero di telefono viene definito valido secondo queste specifiche:
 inizia con +39 (esattamente lungo 13)
 
-inizia con 0039 (esattamente lungi 14)
+inizia con 0039 (esattamente lungo 14)
 
 inizia con un 3 (esattamente lungo 10)
