@@ -1,6 +1,7 @@
 # Check Telefono
-Ricevuto come parametro un vettore di string, ritornare al chiamante la prima stringa che assomiglia molto ad un numero di telefono cellulare italiano ovvero:
+Ricevuto come parametro un vettore di string, ritornare al chiamante la prima stringa che assomiglia molto ad un numero di telefono cellulare italiano.
 
+## Quando un numero è valido?
 un numero per essere valido deve avere certe caratteristiche, le quali sono state elencate sotto:
 
 Inizia con +39 e deve essere esattamente lungo 13 cifre.
