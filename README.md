@@ -1,4 +1,4 @@
-quando un numero viene considerato come valido?
+# quando un numero viene considerato come valido?
 un numero per essere valido deve avere certe caratteristiche, le quali sono state elencate sotto:
 
 Inizia con +39 e deve essere esattamente lungo 13 cifre.
