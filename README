@@ -1,7 +1,6 @@
-quando un numero è valido?
-è stato deciso che un numero di telefono viene definito valido secondo queste specifiche:
-inizia con +39 (esattamente lungo 13)
+quando un numero viene considerato come valido?
 
-inizia con 0039 (esattamente lungo 14)
-
-inizia con un 3 (esattamente lungo 10)
+un numero per essere valido deve avere certe caratteristiche, le quali sono state elencate sotto:
+Inizia con +39 e deve essere esattamente lungo 13 cifre.
+Inizia con 0039 e deve essere esattamente lungo 14 cifre.
+Inizia con un 3 e deve essere esattamente lungo 10 cifre.
