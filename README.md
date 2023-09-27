@@ -11,7 +11,7 @@ Inizia con un 3 e deve essere esattamente lungo 10 cifre.
 ### Tutte le altre situazioni sono da scartare  
 
 ## Possibile soluzione
-```
+```c#
 public static string Check(string[] input)
     {
         foreach (string var in input)
