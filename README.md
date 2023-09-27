@@ -16,7 +16,7 @@ public static string Check(string[] input)
     {
         foreach (string var in input)
         {
-            //rimuovo i spazi non necessari che potrebbo causare problemi
+            //rimuovo i spazi non necessari che potrebbero causare problemi
             string c = var.Trim().Replace(" ", "");
 
             //Controllo se inizia con 0039 e che deve essere esattamente lungo 14 cifre.
